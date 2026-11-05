@@ -47,7 +47,7 @@ Phone: (555) 234-5678
 1. CHILD INFORMATION:
 Child Full Name: _______________________ Date of Birth: __/__/____
 Gender: [ ] M  [ ] F  [ ] Other
-Primary Care Doctor: Dr. Elena Vance, MD
+Primary Care Doctor: Dr. Maryem Munir, MD
 
 2. ALLERGIES & MEDICATIONS:
 Current Daily Medications: _____________________________________
@@ -79,7 +79,7 @@ Signature: ____________________________ Date: __________________`;
             Clear, Calm Health Resources for Parents
           </h1>
           <p className="text-base sm:text-lg text-slate-600 mt-4 leading-relaxed">
-            Written by Dr. Elena Vance to help you safely manage fevers, nighttime croup, stubborn eczema, and playground bumps with clinical confidence.
+            Written by Dr. Maryem Munir to help you safely manage fevers, nighttime croup, stubborn eczema, and playground bumps with clinical confidence.
           </p>
 
           {/* Quick interactive shortcut bar */}
@@ -256,7 +256,7 @@ Signature: ____________________________ Date: __________________`;
                 {/* Bottom Action inside Guide */}
                 <div className="pt-4 border-t border-slate-100 flex flex-wrap items-center justify-between gap-3">
                   <span className="text-xs text-slate-500">
-                    Reviewed by Dr. Elena Vance, MD, FAAP
+                    Reviewed by Dr. Maryem Munir, MD, FAAP
                   </span>
                   <button
                     onClick={onOpenBooking}

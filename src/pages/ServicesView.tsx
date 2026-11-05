@@ -229,7 +229,7 @@ export const ServicesView: React.FC<ServicesViewProps> = ({
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="bg-teal-900 text-white rounded-3xl p-8 sm:p-12 text-center shadow-card space-y-4">
           <h3 className="text-2xl sm:text-3xl font-bold font-display">
-            Need Dr. Vance to examine your child?
+            Need Dr. Munir to examine your child?
           </h3>
           <p className="text-sm text-teal-100 max-w-xl mx-auto">
             We reserve same-day acute slots specifically for fever spikes, swollen tonsils, painful coughs, and sudden joint pain.

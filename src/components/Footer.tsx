@@ -145,7 +145,7 @@ export const Footer: React.FC<FooterProps> = ({
               </li>
               <li>
                 <button onClick={() => navigateTo('about')} className="hover:text-teal-400 transition">
-                  About Dr. Vance, MD
+                  About Dr. Munir, MD
                 </button>
               </li>
               <li>

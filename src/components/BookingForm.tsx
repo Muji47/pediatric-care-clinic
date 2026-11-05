@@ -207,7 +207,7 @@ END:VCALENDAR`;
               </div>
               <div>
                 <span className="text-slate-400 block">Doctor</span>
-                <strong className="text-slate-800">Dr. Elena Vance, MD</strong>
+                <strong className="text-slate-800">Dr. Maryem Munir, MD</strong>
               </div>
               <div>
                 <span className="text-slate-400 block">Date & Time</span>
@@ -234,7 +234,7 @@ END:VCALENDAR`;
             <ul className="list-disc list-inside space-y-1 text-teal-800">
               <li>A favorite soothing toy, blanket, or pacifier for comfort</li>
               <li>Vaccination card or previous pediatric records (if new patient)</li>
-              <li>Photos of any transient skin rashes on your phone to show Dr. Vance</li>
+              <li>Photos of any transient skin rashes on your phone to show Dr. Munir</li>
             </ul>
           </div>
 
@@ -284,7 +284,7 @@ END:VCALENDAR`;
               Online Pediatric Scheduling
             </span>
             <h2 className="text-xl sm:text-2xl font-bold font-display text-slate-900 mt-2">
-              Book a Gentle Visit with Dr. Vance
+              Book a Gentle Visit with Dr. Munir
             </h2>
             <p className="text-xs sm:text-sm text-slate-500 mt-0.5">
               No stress, warm environment. Dedicated sick slots held daily.
@@ -319,7 +319,7 @@ END:VCALENDAR`;
               1. What is the primary reason for your child's visit?
             </label>
             <p className="text-xs text-slate-500 mb-4">
-              Select Dr. Vance's specialty matching your child's primary symptom:
+              Select Dr. Munir's specialty matching your child's primary symptom:
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
@@ -521,7 +521,7 @@ END:VCALENDAR`;
 
           <div>
             <label className="block text-xs font-bold uppercase tracking-wider text-slate-700 mb-2">
-              Available Doctor Slots for Dr. Elena Vance *
+              Available Doctor Slots for Dr. Maryem Munir *
             </label>
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-2.5">
               {timeSlots.map((slot) => {

@@ -33,9 +33,9 @@ export const AboutDoctorView: React.FC<AboutDoctorViewProps> = ({ onOpenBooking 
               <div className="w-48 h-48 sm:w-60 sm:h-60 rounded-3xl bg-gradient-to-tr from-brand-800 via-teal-700 to-teal-500 mx-auto lg:mx-0 flex items-center justify-center text-white shadow-pop relative overflow-hidden">
                 <div className="text-center p-6">
                   <div className="w-16 h-16 rounded-full bg-white/20 mx-auto flex items-center justify-center text-2xl font-black mb-2">
-                    EV
+                    MM
                   </div>
-                  <span className="font-display font-bold text-xl block">Dr. Elena Vance</span>
+                  <span className="font-display font-bold text-xl block">Dr. Maryem Munir</span>
                   <span className="text-xs text-teal-200 block font-medium">MD, FAAP</span>
                   <span className="text-[10px] text-teal-300 block mt-1 uppercase tracking-wider">
                     Board-Certified Pediatrician
@@ -81,7 +81,7 @@ export const AboutDoctorView: React.FC<AboutDoctorViewProps> = ({ onOpenBooking 
                   className="inline-flex items-center gap-2 px-8 py-3.5 rounded-full text-sm font-bold text-white bg-coral-600 hover:bg-coral-700 shadow-soft transition"
                 >
                   <Calendar className="w-4 h-4" />
-                  <span>Schedule a Visit with Dr. Vance</span>
+                  <span>Schedule a Visit with Dr. Munir</span>
                 </button>
               </div>
             </div>
@@ -104,7 +104,7 @@ export const AboutDoctorView: React.FC<AboutDoctorViewProps> = ({ onOpenBooking 
               "{DOCTOR_PROFILE.philosophy}"
             </blockquote>
             <p className="text-sm text-slate-600 leading-relaxed">
-              Dr. Vance noticed early in her residency that the biggest hurdle in pediatrics wasn't diagnosing illness—it was getting a terrified child to relax enough to permit an honest exam. By eliminating cold white coats, warming stethoscopes, examining ears while toddlers sit comfortably in their parent's lap, and using plush animal toys as teaching models, children leave Bloom with high-fives and bravery stickers rather than trauma.
+              Dr. Munir noticed early in her residency that the biggest hurdle in pediatrics wasn't diagnosing illness—it was getting a terrified child to relax enough to permit an honest exam. By eliminating cold white coats, warming stethoscopes, examining ears while toddlers sit comfortably in their parent's lap, and using plush animal toys as teaching models, children leave Bloom with high-fives and bravery stickers rather than trauma.
             </p>
           </div>
 
@@ -126,7 +126,7 @@ export const AboutDoctorView: React.FC<AboutDoctorViewProps> = ({ onOpenBooking 
               </div>
               <h3 className="font-bold text-slate-900 text-sm">Parent Intuition Matters</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
-                Parents live with their children 24/7. When a mother says "something is just off with his breathing," Dr. Vance listens with utmost respect and urgency.
+                Parents live with their children 24/7. When a mother says "something is just off with his breathing," Dr. Munir listens with utmost respect and urgency.
               </p>
             </div>
 
@@ -244,14 +244,14 @@ export const AboutDoctorView: React.FC<AboutDoctorViewProps> = ({ onOpenBooking 
             Ready to experience gentle, personalized pediatric care?
           </h2>
           <p className="text-sm text-teal-100 max-w-xl mx-auto">
-            Book an appointment online in seconds or meet Dr. Vance for a complimentary 10-minute expectant parent consultation.
+            Book an appointment online in seconds or meet Dr. Munir for a complimentary 10-minute expectant parent consultation.
           </p>
           <div className="pt-2">
             <button
               onClick={onOpenBooking}
               className="px-8 py-3.5 rounded-full text-sm font-bold bg-coral-600 hover:bg-coral-700 text-white shadow-soft transition"
             >
-              Book an Appointment with Dr. Vance
+              Book an Appointment with Dr. Munir
             </button>
           </div>
         </div>

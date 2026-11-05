@@ -28,7 +28,7 @@ export const BookingView: React.FC<BookingViewProps> = ({
             Schedule Your Child's Visit
           </h1>
           <p className="text-base sm:text-lg text-slate-600 mt-3 leading-relaxed">
-            Reserve a specialized consultation or same-day sick slot with Dr. Elena Vance in just under two minutes.
+            Reserve a specialized consultation or same-day sick slot with Dr. Maryem Munir in just under two minutes.
           </p>
         </div>
       </section>

@@ -61,7 +61,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
               </h1>
 
               <p className="text-base sm:text-lg text-slate-600 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-                When your child is hurting, you need reassurance, not rush. Dr. Elena Vance provides specialized pediatric medicine in a warm, sensory-calm setting—without intimidating white coats or cold waiting rooms.
+                When your child is hurting, you need reassurance, not rush. Dr. Maryem Munir provides specialized pediatric medicine in a warm, sensory-calm setting—without intimidating white coats or cold waiting rooms.
               </p>
 
               {/* Action Buttons */}
@@ -123,7 +123,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
                   {/* Doctor Card Snippet */}
                   <div className="my-6 flex items-center gap-4">
                     <div className="w-16 h-16 rounded-2xl bg-gradient-to-tr from-brand-700 to-teal-500 flex items-center justify-center text-white text-2xl font-black shadow-md shrink-0">
-                      EV
+                      MM
                     </div>
                     <div>
                       <h3 className="font-bold font-display text-lg text-slate-900">
@@ -381,7 +381,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
                 Unhurried 30 to 45-Minute Visits
               </h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                We refuse 7-minute conveyor-belt appointments. Dr. Vance takes the time to listen to subtle parent instincts, answer every question on your phone, and thoroughly examine without rushing.
+                We refuse 7-minute conveyor-belt appointments. Dr. Munir takes the time to listen to subtle parent instincts, answer every question on your phone, and thoroughly examine without rushing.
               </p>
             </div>
 
@@ -408,9 +408,9 @@ export const HomeView: React.FC<HomeViewProps> = ({
             <div className="lg:col-span-4 text-center">
               <div className="w-40 h-40 sm:w-48 sm:h-48 rounded-3xl bg-gradient-to-tr from-brand-800 to-teal-500 mx-auto flex items-center justify-center text-white shadow-pop">
                 <div className="text-center p-4">
-                  <span className="text-4xl font-black block">EV</span>
+                  <span className="text-4xl font-black block">MM</span>
                   <span className="text-xs font-semibold text-teal-100 tracking-wider uppercase mt-1 block">
-                    Dr. Elena Vance
+                    Dr. Maryem Munir
                   </span>
                   <span className="text-[10px] text-teal-200 block">MD, FAAP</span>
                 </div>
@@ -462,7 +462,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
                   }}
                   className="text-xs sm:text-sm font-bold text-brand-800 hover:text-brand-900 underline"
                 >
-                  Read Doctor Vance's Full Philosophy &amp; Credentials →
+                  Read Doctor Munir's Full Philosophy &amp; Credentials →
                 </button>
               </div>
             </div>

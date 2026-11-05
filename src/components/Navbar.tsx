@@ -39,7 +39,7 @@ export const Navbar: React.FC<NavbarProps> = ({
   const navLinks = [
     { id: 'home', label: 'Home' },
     { id: 'services', label: 'Services & Specialties' },
-    { id: 'about', label: 'About Dr. Vance' },
+    { id: 'about', label: 'About Dr. Munir' },
     { id: 'resources', label: 'Patient Resources' },
     { id: 'contact', label: 'Contact & Clinic' },
   ];

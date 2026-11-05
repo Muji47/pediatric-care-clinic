@@ -158,12 +158,12 @@ export const SERVICES_DATA: ServiceDetail[] = [
 ];
 
 export const DOCTOR_PROFILE: DoctorProfile = {
-  name: "Dr. Elena Vance, MD, FAAP",
+  name: "Dr. Maryem Munir, MD, FAAP",
   title: "Board-Certified Pediatrician & Pediatric ENT / Musculoskeletal Care Specialist",
   credentials: ["MD, Harvard Medical School", "Fellow of the American Academy of Pediatrics (FAAP)", "Specialized Fellowship in Pediatric Triage & Urgent Medicine"],
   experienceYears: 14,
   languages: ["English", "Spanish", "Conversational Mandarin"],
-  bio: "Dr. Elena Vance founded Bloom Pediatric Care with a singular vision: to create a healthcare sanctuary where frightened children feel safe, and overwhelmed parents feel genuinely heard. Having treated over 18,000 children across her 14-year career, Dr. Vance combines academic precision with a soothing, playful bedside manner. She specifically focuses on four of childhood's most distressing challenges—stubborn throat infections, recurring respiratory colds, uncomfortable skin conditions, and pediatric bone/joint aches.",
+  bio: "Dr. Maryem Munir founded Bloom Pediatric Care with a singular vision: to create a healthcare sanctuary where frightened children feel safe, and overwhelmed parents feel genuinely heard. Having treated over 18,000 children across her 14-year career, Dr. Munir combines academic precision with a soothing, playful bedside manner. She specifically focuses on four of childhood's most distressing challenges—stubborn throat infections, recurring respiratory colds, uncomfortable skin conditions, and pediatric bone/joint aches.",
   philosophy: "I don't wear a formal white coat because it creates an unnecessary barrier of fear. Every child deserves to be spoken to with respect, at their eye level. Before touching an ear or throat, we show them on a plush bear first. Medicine should feel like a warm hug, not an ordeal.",
   clinicAtmosphere: "Our clinic is engineered for sensory calm: soft acoustic paneling to prevent echoing cries, warm 2700K lighting, interactive wall puzzles, and separate clean spaces so a well-check baby never shares air with a flu-ridden toddler.",
   education: [
@@ -190,7 +190,7 @@ export const TESTIMONIALS: Testimonial[] = [
     parentName: "Sarah M.",
     childAge: "Mother of Leo (3 yrs)",
     conditionTreated: "Chronic Tonsillitis & Recurrent Strep",
-    quote: "Leo used to scream bloody murder anytime a doctor pulled out a tongue depressor. Dr. Vance turned the throat check into a silly singing game with her owl light. Within two visits, we had a clear, gentle treatment plan that finally stopped his recurrent infections.",
+    quote: "Leo used to scream bloody murder anytime a doctor pulled out a tongue depressor. Dr. Munir turned the throat check into a silly singing game with her owl light. Within two visits, we had a clear, gentle treatment plan that finally stopped his recurrent infections.",
     rating: 5,
     date: "2 weeks ago"
   },
@@ -199,7 +199,7 @@ export const TESTIMONIALS: Testimonial[] = [
     parentName: "Marcus & David T.",
     childAge: "Parents of Maya (18 mos)",
     conditionTreated: "Severe Atopic Eczema Flare-ups",
-    quote: "Maya couldn't sleep because she was scratching her cheeks raw. Other clinics just handed us strong steroid tubes without instructions. Dr. Vance spent 45 minutes teaching us the soak-and-seal method and barrier repair. Her skin was baby-soft in five days. Total lifesaver.",
+    quote: "Maya couldn't sleep because she was scratching her cheeks raw. Other clinics just handed us strong steroid tubes without instructions. Dr. Munir spent 45 minutes teaching us the soak-and-seal method and barrier repair. Her skin was baby-soft in five days. Total lifesaver.",
     rating: 5,
     date: "1 month ago"
   },
@@ -208,16 +208,16 @@ export const TESTIMONIALS: Testimonial[] = [
     parentName: "Priya K.",
     childAge: "Mother of Arjun (5 yrs)",
     conditionTreated: "Sudden Limp & Playground Knee Sprain",
-    quote: "When Arjun woke up limping on a Saturday morning, we were terrified of a fracture. We booked a sick slot at Bloom within 2 hours. Dr. Vance had him giggling while she gently tested his knee ligaments. Her calm reassurance saved us an exhausting ER bill.",
+    quote: "When Arjun woke up limping on a Saturday morning, we were terrified of a fracture. We booked a sick slot at Bloom within 2 hours. Dr. Munir had him giggling while she gently tested his knee ligaments. Her calm reassurance saved us an exhausting ER bill.",
     rating: 5,
     date: "3 weeks ago"
   },
   {
     id: "4",
-    parentName: "Elena R.",
+    parentName: "Amina R.",
     childAge: "Mother of Sophia (10 mos)",
     conditionTreated: "Barking Croup & Winter Cold",
-    quote: "Hearing your baby struggle to breathe at 2 AM is pure nightmare fuel. Bloom's on-call triage gave us step-by-step steam advice, and Dr. Vance examined her first thing Sunday morning. The clinic environment is so peaceful and clean.",
+    quote: "Hearing your baby struggle to breathe at 2 AM is pure nightmare fuel. Bloom's on-call triage gave us step-by-step steam advice, and Dr. Munir examined her first thing Sunday morning. The clinic environment is so peaceful and clean.",
     rating: 5,
     date: "Last month"
   }
@@ -252,7 +252,7 @@ export const FAQS: FaqItem[] = [
   {
     category: "general",
     question: "What makes Bloom Pediatric Care different from a standard walk-in clinic?",
-    answer: "Unlike adult urgent cares where children are treated with adult-scale tools, our entire practice is designed around child psychology and pediatric physiology. Dr. Vance has deep specialist training in pediatric ENT, respiratory triage, dermatology, and pediatric musculoskeletal checks. We minimize waiting room stress, utilize gentle painless diagnostic tools, and provide direct parent support."
+    answer: "Unlike adult urgent cares where children are treated with adult-scale tools, our entire practice is designed around child psychology and pediatric physiology. Dr. Munir has deep specialist training in pediatric ENT, respiratory triage, dermatology, and pediatric musculoskeletal checks. We minimize waiting room stress, utilize gentle painless diagnostic tools, and provide direct parent support."
   }
 ];
 
